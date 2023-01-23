@@ -1,4 +1,7 @@
 # MissãoZero
+<p align="center">
+  <img alt="projeto Habits" src="dash_hpn.jpg" width="100%">
+</p>
 Dashboard de faturamento construído durante a Missão Zero da Power BI experience. 
 - % Discount = % Discount = DIVIDE([Discount], [Gross Sales])
   Porcentagem de desconto.
